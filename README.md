@@ -100,5 +100,4 @@ navegación de detalle) y pueden automatizarse siguiendo el mismo patrón.
 ## Prueba no funcional (Performance)
 
 La prueba TC-PERF-01 se ejecuta con **Apache JMeter** (no con Selenium), según
-se documenta en la sección 5 del Word. El archivo del plan de JMeter (.jmx)
-puede agregarse a este mismo repositorio en una carpeta `/jmeter`.
+se documenta en la sección 5 del Word. 
